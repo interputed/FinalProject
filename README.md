@@ -1,2 +1,2 @@
 # FinalProject
-CS4330 Final Project
+This is to serve as the container for my final project in CS 4330.
