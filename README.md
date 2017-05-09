@@ -24,7 +24,6 @@
 1. [Errors and exception handling](files/errors.md)
 1. [Lambda expressions, closures, or functions as types](files/lambda.md)
 1. [Implementation of listeners and event handlers](files/event_handlers.md)
-1. [Singleton](files/singleton.md)
 1. [Procedural programming](files/procedural.md)
 1. [Functional programming](files/functional.md)
 1. [Multithreading](files/multithreading.md)

@@ -1,7 +1,0 @@
-# Singleton
-
-## C++
-
-## Python
-
-
